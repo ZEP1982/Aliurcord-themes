@@ -3,7 +3,8 @@
         "author": "יKNOCKDEMPUT#9568",
         "version": "1.2.0",
         "name": "You Trippin'",
-        "license": "no license "
+        "license": "no license ",
+        "updater": "https:\/\/raw.githubusercontent.com\/rickdtc\/Aliurcord-themes\/main\/Transparent.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/887930190137786399\/888074185597915156\/giphy.gif",
