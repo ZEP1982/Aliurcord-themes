@@ -1,0 +1,17 @@
+{
+    "manifest": {
+        "author": "KNOCKDEMPUT#9568",
+        "name": "Yo",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/811255667469582420\/900816239629316167\/pitch-black-1.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -1610612736,
+        "background": -1795162112
+    },
+    "colors": {},
+    "drawable_tints": {}
+}
