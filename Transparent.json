@@ -1,7 +1,7 @@
 {
     "manifest": {
         "author": "KNOCKDEMPUT#9568",
-        "version": "1.2.5",
+        "version": "1.2.6",
         "name": "You Trippin'",
         "license": "no license ",
         "updater": "https:\/\/raw.githubusercontent.com\/rickdtc\/Aliurcord-themes\/main\/Transparent.json"
@@ -14,7 +14,7 @@
     "simple_colors": {
         "background": 956301312,
         "background_secondary": 1560281088,
-        "accent": 1539113215,
+        "accent": 1505558783,
         "statusbar": 1560281088,
         "mention_highlight": 631775462
     },
@@ -26,7 +26,8 @@
         "uikit_btn_bg_color_selector_green": -1045430017,
         "status_green": -1045430017,
         "primary_dark_100": 1353711871,
-        "primary_700": -1907153305
+        "primary_700": -1907153305,
+        "primary_630": 2136155751
     },
     "drawable_tints": {
         "drawable_overlay_guild_mentions_dark": 1979711488,
